@@ -1,4 +1,4 @@
-module github.com/snakoner/go-tron-lib
+module github.com/w3-developers/go-tron-lib
 
 go 1.24.3
 
