@@ -7,7 +7,7 @@ import (
 	"math/big"
 	"sync"
 
-	"github.com/snakoner/go-tron-lib"
+	"github.com/w3-developers/go-tron-lib"
 )
 
 const (
